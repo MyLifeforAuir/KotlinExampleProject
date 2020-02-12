@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="wanna.cu.kotlinexampleproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".widgets.fab.Widgets_ToggleButton_Fab"></activity>
+        <activity android:name=".widgets.fab.Widgets_TextSwitcher_Fab" />
+        <activity android:name=".widgets.fab.Widgets_Switch_Fab" />
+        <activity android:name=".widgets.fab.Widgets_Spinner_Fab" />
+        <activity android:name=".widgets.fab.Widgets_ScrollView_Fab" />
+        <activity android:name=".widgets.fab.Widgets_RatingBar_Fab" />
+        <activity android:name=".widgets.fab.Widgets_RadioButton_Fab" />
+        <activity android:name=".widgets.fab.Widgets_ProgressDialog_Fab" />
+        <activity android:name=".widgets.fab.Widgets_ProgressBar_Fab" />
+        <activity android:name=".widgets.fab.Widgets_CustomCheckBox_Fab" />
+        <activity android:name=".widgets.fab.Widgets_CheckedTextView_Fab" />
+        <activity android:name=".widgets.fab.Widgets_CheckBox_Fab" />
+        <activity android:name=".widgets.fab.Widgets_Button_Fab" />
+        <activity android:name=".widgets.fab.Widgets_AutoCompleteTextView_Fab" />
+        <activity android:name=".widgets.fab.Widgets_EditText_Fab" />
+        <activity android:name=".widgets.fab.Widgets_TextView_Fab" />
+        <activity android:name=".toast.Toast_PositioningToast" />
+        <activity android:name=".toast.Toast_CustomToast" />
+        <activity android:name=".toast.Toast_SimpleToast" />
+        <activity android:name=".toast.Toast_ColoredToast" />
+        <activity android:name=".widgets.Widgets_Button" />
+        <activity android:name=".widgets.Widgets_EditText" />
+        <activity android:name=".widgets.Widgets_TextView" />
+        <activity android:name=".widgets.Widgets_CustomCheckBox" />
+        <activity android:name=".widgets.Widgets_CheckedTextView" />
+        <activity android:name=".widgets.Widgets_ToggleButton" />
+        <activity android:name=".widgets.Widgets_Switch" />
+        <activity android:name=".widgets.Widgets_ProgressBar" />
+        <activity android:name=".widgets.Widgets_ProgressDialog" />
+        <activity android:name=".widgets.Widgets_RadioButton" />
+        <activity android:name=".widgets.Widgets_RatingBar" />
+        <activity android:name=".widgets.Widgets_ScrollView" />
+        <activity android:name=".widgets.Widgets_Spinner" />
+        <activity android:name=".widgets.Widgets_AutoCompleteTextView" />
+        <activity android:name=".widgets.Widgets_CheckBox" />
+        <activity android:name=".widgets.Widgets_TextSwitcher" />
+        <activity android:name=".FirstContainer" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

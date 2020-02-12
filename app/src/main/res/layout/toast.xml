@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:id="@+id/toast_simpletoast"
+        android:text="Simple Toast"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:id="@+id/toast_customtoast"
+        android:text="Custom Toast"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:id="@+id/toast_positioningtoast"
+        android:text="Postitioning Toast"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:id="@+id/toast_coloredtoast"
+        android:text="Colored Toast"
+        android:background="@drawable/myframe"
+        ></Button>
+</LinearLayout>

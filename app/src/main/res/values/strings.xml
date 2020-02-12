@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">KotlinExampleProject</string>
+    <string-array name="main_menu_items">
+        <item>Widgets</item>
+        <item>Toast</item>
+        <item>Alert Dialog</item>
+        <item>Image</item>
+        <item>Date</item>
+        <item>Container</item>
+        <item>Menu</item>
+        <item>Implicit Intent</item>
+        <item>Explicit Intent</item>
+        <item>Activity</item>
+        <item>Fragment</item>
+        <item>Wifi Manager</item>
+        <item>Animation</item>
+        <item>Calculator</item>
+        <item>Material Design</item>
+        <item>Notification</item>
+        <item>SQLite</item>
+        <item>Bluetooth</item>
+        <item>Share</item>
+        <item>Device</item>
+        <item>Data Storage</item>
+        <item>Google Map</item>
+    </string-array>
+    <string-array name="Widgets_items">
+        <item>TextView</item>
+        <item>EditText</item>
+        <item>Raiting Bar</item>
+        <item>Button</item>
+        <item>Radio Button</item>
+        <item>Check Box</item>
+        <item>Spinner</item>
+        <item>Switch</item>
+        <item>Progress Dialog</item>
+        <item>Progress Bar</item>
+        <item>AutoComplete TextView</item>
+        <item>MultiAutoComplete TextView</item>
+        <item>TextSwitcher</item>
+        <item>Checked TextView</item>
+        <item>Toggle Button</item>
+        <item>Custom Checkbox</item>
+        <item>ScrollView</item>
+        <item>View Tag</item>
+    </string-array>
+</resources>

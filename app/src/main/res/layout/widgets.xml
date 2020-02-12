@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    >
+<LinearLayout
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<Button
+    android:layout_marginTop="14dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="15dp"
+    android:layout_marginBottom="7dp"
+    android:text="TextView"
+    android:background="@drawable/myframe"
+    android:id="@+id/widgets_textview"
+    ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="EditText"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_edittext"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Button"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_button"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Radio Button"
+        android:id="@+id/widgets_radiobutton"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Check Box"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_checkbox"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Rating Bar"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_ratingbar"
+        ></Button>
+    <Button
+        android:id="@+id/widgets_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Spinner"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Switch"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_swtich"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Progress Dialog"
+        android:id="@+id/widgets_progressdialog"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Progress Bar"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_progressbar"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="AutoComplete TextView"
+        android:id="@+id/widgets_autocompletetextview"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="TextSwitcher"
+        android:background="@drawable/myframe"
+        android:id="@+id/widgets_textswticher"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Checked TextView"
+        android:id="@+id/widgets_checkedtextview"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Toggle Button"
+        android:background="@drawable/myframe"
+
+        android:id="@+id/widgets_togglebutton"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:text="Custom CheckBox"
+        android:id="@+id/widgets_customcheckbox"
+        android:background="@drawable/myframe"
+        ></Button>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="15dp"
+        android:layout_marginBottom="7dp"
+        android:id="@+id/widgets_scrollview"
+        android:text="ScrollView"
+        android:background="@drawable/myframe"
+        ></Button>
+
+</LinearLayout>
+</ScrollView>
